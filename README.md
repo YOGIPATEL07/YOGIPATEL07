@@ -26,3 +26,12 @@ Hi there! I'm **Yogi Patel**, a passionate software developer and a recent gradu
    "hobbies": ["Coding Challenges", "Hackathons", "Cricket", "Traveling"],
    "goals": "To create impactful tech solutions and grow as a professional"
 }
+
+🛠️ Current Focus
+📚 Learning: Angular, Docker, Kubernetes
+🔨 Building: Interactive web apps with a user-first approach
+🤝 Collaborating: Open-source projects to give back to the community
+
+🏅 A Few Highlights
+📈 Top 5% Performer in Client-Side JavaScript with a 96% grade
+🎓 Developed dynamic, high-quality projects during my academic journey
