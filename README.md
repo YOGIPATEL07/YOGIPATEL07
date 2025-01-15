@@ -1,12 +1,17 @@
-Welcome to My Coding Universe! 🚀
-Hi there! I'm Yogi Patel, a passionate software developer and a recent graduate from Georgian College. My journey in technology is fueled by curiosity, creativity, and the drive to build solutions that make an impact.
+# Welcome to My Coding Universe! 🚀  
 
-🌟 What I Bring to the Table:
+Hi there! I'm **Yogi Patel**, a passionate software developer and a recent graduate from **Georgian College**. My journey in technology is fueled by curiosity, creativity, and the drive to build solutions that make an impact.  
 
-📜 A Diploma in Computer Programming
-💻 Expertise in Full-Stack Development, Cloud Computing, and UI/UX Design
-🏆 A knack for solving problems, collaborating with teams, and turning ideas into reality
-🌐 About Me in Code
+🌟 **What I Bring to the Table:**  
+- 📜 A Diploma in Computer Programming  
+- 💻 Expertise in **Full-Stack Development**, **Cloud Computing**, and **UI/UX Design**  
+- 🏆 A knack for solving problems, collaborating with teams, and turning ideas into reality  
+
+---
+
+## 🌐 About Me in Code  
+
+```json
 {
    "name": "Yogi Patel",
    "title": "Software Developer",
@@ -30,8 +35,3 @@ Hi there! I'm Yogi Patel, a passionate software developer and a recent graduate 
 🏅 A Few Highlights
 📈 Top 5% Performer in Client-Side JavaScript with a 96% grade
 🎓 Developed dynamic, high-quality projects during my academic journey
-YOGIPATEL07/YOGIPATEL07 is a special repository.
-
-
-
- 
